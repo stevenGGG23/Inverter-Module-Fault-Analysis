@@ -60,7 +60,7 @@ Utility-scale solar sites often have hundreds of inverter modules. Manually revi
 ---
 
 ## 🧪 Output Example
---- '''
+
 Starting Multi-Site Inverter Module Fault Analysis...
 Date Range: 2025-07-07 to 2025-07-09
 Grid Resolution: 5min
@@ -68,6 +68,5 @@ Output File: inverter_fault_analysis_report.csv
 
 Total Sites Analyzed: 21
 Sites with Faults: 0
-Total Fault Periods: 0
----
+Total Fault Periods: 0 
 '''
